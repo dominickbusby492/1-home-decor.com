@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /home_13/
+Sitemap: http://www.1-home-decor.com/sitemap.xml 

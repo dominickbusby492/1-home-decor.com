@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Home Decor Coupons Blog]]></title>
+  <link href="http://www.1-home-decor.com/atom.xml" rel="self"/>
+  <link href="http://www.1-home-decor.com/"/>
+  <updated>2014-03-25T11:30:09+00:00</updated>
+  <id>http://www.1-home-decor.com/</id>
+  <author>
+    <name><![CDATA[Dominick Busby]]></name>
+    
+  </author>
+
+  
+</feed>
